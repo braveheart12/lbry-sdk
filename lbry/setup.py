@@ -32,7 +32,7 @@ setup(
         'distro==1.4.0',
         'base58==1.0.0',
         'cffi==1.12.1',
-        'cryptography==2.5',
+        'cryptography==3.2',
         'protobuf==3.6.1',
         'msgpack==0.6.1',
         'ecdsa==0.13',
