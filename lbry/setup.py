@@ -24,7 +24,7 @@ setup(
     },
     install_requires=[
         'torba',
-        'aiohttp==3.5.4',
+        'aiohttp==3.7.4',
         'aioupnp==0.0.13',
         'appdirs==1.4.3',
         'certifi>=2018.11.29',
