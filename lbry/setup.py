@@ -36,7 +36,7 @@ setup(
         'protobuf==3.6.1',
         'msgpack==0.6.1',
         'ecdsa==0.13',
-        'pyyaml==4.2b1',
+        'pyyaml==5.4',
         'docopt==0.6.2',
         'hachoir',
     ],
