@@ -33,7 +33,7 @@ setup(
         'base58==1.0.0',
         'cffi==1.12.1',
         'cryptography==2.5',
-        'protobuf==3.6.1',
+        'protobuf==3.18.3',
         'msgpack==0.6.1',
         'ecdsa==0.13',
         'pyyaml==4.2b1',
